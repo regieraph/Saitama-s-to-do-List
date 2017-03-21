@@ -1,0 +1,92 @@
+#bodyAppend{
+  background-image: url(https://img.clipartfest.com/95c888d76b9867c558272c1045f8f67d_lined-paper-background-yellow-lined-paper-clipart_1275-1650.jpeg);
+  position: scroll;
+  background-position: center;
+}
+
+#orderedList {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+header > h1{
+  position: relative;
+  text-align: center;
+  font-family: 'Lakki Reddy', cursive;
+  margin-top: 75px;
+  text-decoration: underline;
+}
+
+
+.orderedList{
+  position: relative;
+  padding: 5px;
+  text-align: center;
+
+}
+
+.newH1{
+  font-size: 30px;
+  margin-top: 12px;
+  text-decoration: underline;
+  padding: 0;
+  font-family: "Lakki Reddy", cursive;
+  font-weight: lighter;
+  z-index: 1;
+}
+
+#newDate {
+  font-weight: lighter;
+}
+
+#titleForm {
+  /*position: absolute;*/
+  margin-top: 57px;
+  margin-left: 611px;
+
+}
+
+#inputForm {
+  /*position: absolute;*/
+  margin-top: 11px;
+  margin-left: 598px;
+}
+
+#button {
+  position: absolute;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-left: 2px;
+}
+
+#button2 {
+  opacity: 0.8;
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+  margin-top: -9px;
+  border-radius: 50px;
+  outline: none;
+}
+
+
+.pencil {
+  position: absolute;
+  margin-left: 442px;
+  margin-top: 372px;
+  padding: 0;
+  content: 0;
+  -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+  transform: rotate(-25deg);
+}
+.saitama {
+  position: absolute;
+  opacity: 0.8;
+  border-width: 1px;
+  border-style: groove;
+  border-radius: 4px;
+  border-color: gray;
+  margin-top: 240px;
+  margin-left: 184px;
+
+}
