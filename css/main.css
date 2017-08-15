@@ -35,19 +35,15 @@ header > h1{
   z-index: 1;
 }
 
-#newDate {
-  font-weight: lighter;
-}
 
 #titleForm {
-  /*position: absolute;*/
+  position: relative;
   margin-top: 57px;
   margin-left: 611px;
 
 }
 
 #inputForm {
-  /*position: absolute;*/
   margin-top: 11px;
   margin-left: 598px;
 }
